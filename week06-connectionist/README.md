@@ -1,20 +1,20 @@
-# Deep Networks
+# Redes profundas
 
-## Objectives
-- Understand deep feedforward networks and their optimization.
-- Learn about vanishing gradients, initialization, and batch normalization.
-- Explore optimizers like Adam, RMSProp, and SGD.
+## Objetivos
+- Entenda as redes profundas feedforward e sua otimização.
+- Saiba mais sobre gradientes de fuga, inicialização e normalização de lotes.
+- Explore otimizadores como Adam, RMSProp e SGD.
 
-## Readings
-- *Deep Learning* – Ian Goodfellow, Chapters 8–10.
-- "A Brief Survey on Deep Learning" – LeCun, Bengio, Hinton (Nature 2015).
-- "Understanding the difficulty of training deep feedforward networks" – Glorot & Bengio (2010).
+## Leituras
+- *Aprendizagem profunda* - Ian Goodfellow, Capítulos 8-10.
+- “A Brief Survey on Deep Learning” (Uma breve pesquisa sobre aprendizagem profunda) - LeCun, Bengio, Hinton (Nature 2015).
+- “Understanding the difficulty of training deep feedforward networks” (Entendendo a dificuldade de treinar redes profundas feedforward) - Glorot &amp; Bengio (2010).
 
-## Practice
-- Train a deep neural network using PyTorch or TensorFlow.
-- Explore how layer depth affects performance on MNIST or CIFAR-10.
-- Experiment with optimizers and learning rate schedules.
+## Prática
+- Treine uma rede neural profunda usando PyTorch ou TensorFlow.
+- Explore como a profundidade da camada afeta o desempenho no MNIST ou no CIFAR-10.
+- Faça experiências com otimizadores e programações de taxa de aprendizado.
 
-## Notes
-- Note the challenges and techniques for stabilizing deep training.
-- Summarize the role of normalization and initialization strategies.
+## Notas
+- Observe os desafios e as técnicas para estabilizar o treinamento profundo.
+- Resuma a função das estratégias de normalização e inicialização.

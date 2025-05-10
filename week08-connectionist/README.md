@@ -1,20 +1,20 @@
 # Transformers and Embeddings
 
-## Objectives
-- Learn the Transformer architecture and self-attention.
-- Explore word and sentence embeddings (Word2Vec, GloVe, BERT).
-- Study attention mechanisms and positional encoding.
+## Objetivos
+- Aprender a arquitetura do Transformer e a autoatenção.
+- Explorar os embeddings de palavras e frases (Word2Vec, GloVe, BERT).
+- Estudar os mecanismos de atenção e a codificação posicional.
 
-## Readings
-- "Attention is All You Need" – Vaswani et al. (2017).
-- "BERT: Pre-training of Deep Bidirectional Transformers" – Devlin et al. (2018).
-- *The Illustrated Transformer* – Jay Alammar.
+## Leituras
+- "Attention is All You Need" (Atenção é tudo o que você precisa) - Vaswani et al. (2017).
+- “BERT: pré-treinamento de transformadores bidirecionais profundos” - Devlin et al. (2018).
+- The Illustrated Transformer* (O transformador ilustrado) - Jay Alammar.
 
 ## Practice
-- Use Hugging Face Transformers to run BERT or DistilBERT.
-- Train a small transformer model using `transformers` + `datasets`.
-- Explore semantic similarity using sentence embeddings.
+- Use Hugging Face Transformers para executar o BERT ou o DistilBERT.
+- Treine um pequeno modelo de transformador usando `transformers` + `datasets`.
+- Explore a similaridade semântica usando embeddings de sentença.
 
-## Notes
-- Capture how transformers differ from RNNs in architecture and performance.
-- Note pre-training and fine-tuning paradigms.
+## Notas
+- Capture como os transformadores diferem dos RNNs em termos de arquitetura e desempenho.
+- Observe os paradigmas de pré-treinamento e ajuste fino.

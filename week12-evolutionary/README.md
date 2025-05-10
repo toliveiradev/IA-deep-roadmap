@@ -1,20 +1,20 @@
-# Neuroevolution
+# Neuroevolução
 
-## Objectives
-- Combine evolutionary algorithms with neural networks.
-- Study NEAT, HyperNEAT, and evolutionary strategies (ES).
-- Explore automated architecture discovery and training.
+## Objetivos
+- Combinar algoritmos evolutivos com redes neurais.
+- Estudar NEAT, HyperNEAT e estratégias evolutivas (ES).
+- Explorar a descoberta e o treinamento de arquitetura automatizada.
 
-## Readings
-- "Evolving Neural Networks through Augmenting Topologies" – Stanley & Miikkulainen.
-- OpenAI ES blog & paper.
-- "A Survey on Neuroevolution" – Floreano et al. (2008).
+## Leituras
+- "Evolving Neural Networks through Augmenting Topologies" - Stanley & Miikkulainen.
+- Blog e artigo da OpenAI ES.
+- “A Survey on Neuroevolution” (Uma pesquisa sobre neuroevolução) - Floreano et al. (2008).
 
-## Practice
-- Use NEAT-Python to evolve controllers or networks.
-- Compare evolved networks to backprop-trained ones.
-- Evolve network topologies for reinforcement learning tasks.
+## Prática
+- Use o NEAT-Python para desenvolver controladores ou redes.
+- Compare as redes desenvolvidas com as treinadas por backprop.
+- Evolua as topologias de rede para tarefas de aprendizagem por reforço.
 
-## Notes
-- Reflect on the potential and scalability of neuroevolution.
-- Note applications in architecture search and robotics.
+## Notas
+- Reflita sobre o potencial e a escalabilidade da neuroevolução.
+- Observe as aplicações em pesquisa de arquitetura e robótica.

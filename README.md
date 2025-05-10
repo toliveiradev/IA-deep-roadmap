@@ -1,14 +1,14 @@
-# Advanced Artificial Intelligence Study Plan
-Author: Tiago Augusto de Oliveira
+# Plano de Estudo de Inteligência Artificial Avançada
+Autor: Tiago Augusto de Oliveira e Nicolas Oliveira Mariano
 
-This repository contains a guided 12-week study plan, divided into the Symbolic, Connectionist, and Evolutionary paradigms of AI.
+Este repositório contém um plano de estudo guiado de 12 semanas, dividido nos paradigmas Simbólico, Conexionista e Evolucionário da IA.
 
-## Structure
-- Weeks 1–4: Symbolic AI
-- Weeks 5–8: Connectionist AI
-- Weeks 9–12: Evolutionary AI
+## Estrutura
+- Semanas 1-4: IA Simbólica
+- Semanas 5-8: IA Conexionista
+- Semanas 9-12: IA Evolucionária
 
-Each weekly folder includes:
-- `README.md`: Weekly instructions
-- `notebook.ipynb`: Practical exercises (to be created)
-- `theory.md`: Theoretical notes (to be filled in)
+Cada pasta semanal inclui:
+- `README.md`: Instruções semanais
+- `notebook.ipynb`: Exercícios práticos (a serem criados)
+- `theory.md`: Notas teóricas (a serem preenchidas)

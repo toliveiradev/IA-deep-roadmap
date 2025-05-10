@@ -1,20 +1,20 @@
-# Genetic Programming
+# Programação genética
 
-## Objectives
-- Learn how programs can be evolved.
-- Understand tree-based representations and program mutation.
-- Explore symbolic regression and function discovery.
+## Objetivos
+- Saiba como os programas podem ser desenvolvidos.
+- Compreender as representações baseadas em árvores e a mutação de programas.
+- Explorar a regressão simbólica e a descoberta de funções.
 
-## Readings
-- *Genetic Programming: On the Programming of Computers by Means of Natural Selection* – Koza.
-- DEAP documentation: GP module.
-- "A Field Guide to Genetic Programming" – Poli, Langdon, McPhee.
+## Leituras
+- *Genetic Programming: On the Programming of Computers by Means of Natural Selection* (Programação genética: sobre a programação de computadores por meio da seleção natural) - Koza.
+- Documentação do DEAP: Módulo GP.
+- “A Field Guide to Genetic Programming” - Poli, Langdon, McPhee.
 
-## Practice
-- Evolve symbolic expressions to fit data (symbolic regression).
-- Use DEAP’s GP module for expression evolution.
-- Try evolving mathematical functions to match datasets.
+## Prática
+- Desenvolva expressões simbólicas para ajustar os dados (regressão simbólica).
+- Use o módulo GP do DEAP para a evolução da expressão.
+- Tente evoluir as funções matemáticas para que correspondam aos conjuntos de dados.
 
-## Notes
-- Capture insights into tree representation and crossover/mutation challenges.
-- Reflect on overfitting in genetic programming.
+## Notas
+- Capture insights sobre representação de árvores e desafios de cruzamento/mutação.
+- Reflita sobre o ajuste excessivo na programação genética.

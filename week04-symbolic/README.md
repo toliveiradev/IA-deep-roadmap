@@ -1,20 +1,20 @@
-# Inductive Logic Programming
+# Programação de lógica indutiva
 
-## Objectives
-- Deepen your understanding of learning from logical representations.
-- Explore background knowledge, coverage, and hypothesis space.
-- Study key ILP algorithms and use real ILP systems.
+## Objetivos
+- Aprofundar sua compreensão do aprendizado com representações lógicas.
+- Explorar o conhecimento de fundo, a cobertura e o espaço de hipóteses.
+- Estudar os principais algoritmos de ILP e usar sistemas ILP reais.
 
-## Readings
-- *Inductive Logic Programming: Techniques and Applications* – Muggleton & De Raedt.
-- "Introduction to ILP" – Stephen Muggleton (1995).
-- *Foundations of Inductive Logic Programming* – Lecture Notes in Computer Science, Springer.
+## Leituras
+- *Inductive Logic Programming: Techniques and Applications* (Técnicas e aplicativos) - Muggleton &amp; De Raedt.
+- “Introduction to ILP” (Introdução à ILP) - Stephen Muggleton (1995).
+- Fundamentos da Programação Lógica Indutiva* - Lecture Notes in Computer Science, Springer.
 
 ## Practice
-- Install and run the Aleph ILP system with Prolog.
-- Use a simple dataset to induce logical rules.
-- Analyze the coverage and accuracy of learned hypotheses.
+- Instale e execute o sistema Aleph ILP com Prolog.
+- Use um conjunto de dados simples para induzir regras lógicas.
+- Analise a cobertura e a precisão das hipóteses aprendidas.
 
-## Notes
-- Capture insights on hypothesis evaluation and logic programming constraints.
-- Consider domains where ILP might outperform sub-symbolic methods.
+## Notas
+- Capture insights sobre avaliação de hipóteses e restrições de programação lógica.
+- Considere os domínios em que o ILP pode superar os métodos sub-simbólicos.****

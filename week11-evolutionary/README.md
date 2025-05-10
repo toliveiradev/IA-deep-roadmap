@@ -1,20 +1,20 @@
-# Metaheuristics
+# Metaheurísticas
 
-## Objectives
-- Study global optimization strategies: Simulated Annealing, PSO, ACO.
-- Understand landscapes, local optima, and stochastic search.
-- Compare metaheuristics to traditional ML optimization.
+## Objetivos
+- Estudar estratégias de otimização global: Recozimento simulado, PSO, ACO.
+- Entenda as paisagens, os ótimos locais e a busca estocástica.
+- Comparar a metaheurística com a otimização tradicional de ML.
 
-## Readings
-- *Essentials of Metaheuristics* – Sean Luke (Free eBook).
-- "A Brief Review of Metaheuristics" – Talbi (2015).
-- Tutorials on PySwarm and Simulated Annealing in SciPy.
+## Leituras
+- *Essentials of Metaheuristics* (Fundamentos da Metaheurística) - Sean Luke (livro eletrônico gratuito).
+- “Uma breve revisão da metaheurística” - Talbi (2015).
+- Tutoriais sobre PySwarm e Simulated Annealing em SciPy.
 
-## Practice
-- Solve a TSP-like problem using PSO or ACO.
-- Compare results with a genetic algorithm.
-- Analyze performance on noisy or deceptive landscapes.
+## Prática
+- Resolva um problema do tipo TSP usando PSO ou ACO.
+- Compare os resultados com um algoritmo genético.
+- Analise o desempenho em cenários ruidosos ou enganosos.
 
-## Notes
-- Describe differences in exploration mechanisms.
-- Note convergence behaviors and randomization roles.
+## Notas
+- Descreva as diferenças nos mecanismos de exploração.
+- Observe os comportamentos de convergência e as funções de randomização.

@@ -1,20 +1,20 @@
-# CNNs and RNNs
+# CNNs e RNNs
 
-## Objectives
-- Study convolutional layers, pooling, and temporal modeling.
-- Understand sequence modeling with RNNs, GRUs, and LSTMs.
-- Learn how CNNs apply to images and RNNs to text/time-series.
+## Objetivos
+- Estudar camadas convolucionais, pooling e modelagem temporal.
+- Compreender a modelagem de sequência com RNNs, GRUs e LSTMs.
+- Aprender como as CNNs se aplicam a imagens e as RNNs a textos/séries temporais.
 
-## Readings
-- *Deep Learning* – Goodfellow, Chapters 9 and 10.
-- "Long Short-Term Memory" – Hochreiter & Schmidhuber (1997).
-- "ImageNet Classification with Deep Convolutional Networks" – Krizhevsky et al. (2012).
+## Leituras
+- *Deep Learning* - Goodfellow, Capítulos 9 e 10.
+- “Memória longa de curto prazo” - Hochreiter &amp; Schmidhuber (1997).
+- “ImageNet Classification with Deep Convolutional Networks” (Classificação ImageNet com redes convolucionais profundas) - Krizhevsky et al. (2012).
 
-## Practice
-- Build a CNN for image classification using a small dataset.
-- Train an RNN for sequence prediction (e.g., character-level language modeling).
-- Visualize filters and activations from CNN layers.
+## Prática
+- Crie uma CNN para classificação de imagens usando um pequeno conjunto de dados.
+- Treine uma RNN para previsão de sequência (por exemplo, modelagem de linguagem em nível de caractere).
+- Visualize filtros e ativações das camadas da CNN.
 
-## Notes
-- Note differences in inductive bias between CNNs and RNNs.
-- Reflect on the vanishing gradient problem in RNNs.
+## Notas
+- Observe as diferenças na tendência indutiva entre CNNs e RNNs.
+- Reflita sobre o problema do gradiente de desaparecimento em RNNs.

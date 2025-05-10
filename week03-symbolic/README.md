@@ -1,20 +1,20 @@
-# Symbolic Learning
+# Aprendizagem simbólica
 
-## Objectives
-- Learn how symbolic systems perform generalization from examples.
-- Understand decision trees, ILP, and knowledge-based learning.
-- Explore the relationship between logic and machine learning.
+## Objetivos
+- Saiba como os sistemas simbólicos realizam a generalização a partir de exemplos.
+- Compreender árvores de decisão, ILP e aprendizagem baseada em conhecimento.
+- Explorar a relação entre lógica e aprendizado de máquina.
 
-## Readings
-- *Machine Learning* (Tom Mitchell), Chapter 3 – Decision Trees.
-- "Symbolic Machine Learning: A Guide" – Pat Langley.
-- Research on FOIL and ID3/C4.5 algorithms.
+## Leituras
+- *Machine Learning* (Tom Mitchell), Capítulo 3 - Decision Trees (Árvores de decisão).
+- "Symbolic Machine Learning: A Guide" - Pat Langley.
+- Pesquisa sobre os algoritmos FOIL e ID3/C4.5.
 
-## Practice
-- Implement the ID3 decision tree algorithm.
-- Use the `scikit-learn` DecisionTreeClassifier and extract rules.
-- Try an open-source ILP system like Aleph or TILDE.
+## Prática
+- Implemente o algoritmo de árvore de decisão ID3.
+- Use o DecisionTreeClassifier do `scikit-learn` e extraia regras.
+- Experimente um sistema ILP de código aberto, como o Aleph ou o TILDE.
 
-## Notes
-- Reflect on the strengths and limitations of symbolic learning.
-- Note the inductive bias required for learning logical rules.
+## Notas
+- Reflita sobre os pontos fortes e as limitações do aprendizado simbólico.
+- Observe o viés indutivo necessário para o aprendizado de regras lógicas.

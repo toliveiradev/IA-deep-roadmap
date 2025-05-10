@@ -1,20 +1,20 @@
-# Automated Inference
+# Inferência automatizada
 
-## Objectives
-- Study propositional and first-order logic.
-- Understand forward and backward chaining.
-- Learn about resolution-based theorem proving.
+## Objetivos
+- Estudar a lógica proposicional e de primeira ordem.
+- Compreender o encadeamento para frente e para trás.
+- Aprender sobre a comprovação de teoremas baseada em resolução.
 
-## Readings
-- *Artificial Intelligence: A Modern Approach*, Chapters 7–9.
-- "A Survey of Automated Deduction" – John Alan Robinson.
-- "Logic for Computer Science" – Steve Reeves (Ch. 2–4).
+## Leituras
+- *Artificial Intelligence: A Modern Approach* (Inteligência artificial: uma abordagem moderna), capítulos 7 a 9.
+- “A Survey of Automated Deduction” (Uma pesquisa sobre dedução automatizada) - John Alan Robinson.
+- “Logic for Computer Science” - Steve Reeves (Cap. 2-4).
 
-## Practice
-- Implement forward and backward chaining in Python.
-- Use a resolution theorem prover (e.g., Pyke or Prover9).
-- Explore satisfiability solvers (e.g., Z3 SMT Solver).
+## Prática
+- Implemente encadeamento para frente e para trás em Python.
+- Use um verificador de teoremas de resolução (por exemplo, Pyke ou Prover9).
+- Explore solucionadores de satisfatoriedade (por exemplo, Z3 SMT Solver).
 
-## Notes
-- Compare chaining methods and describe when each is appropriate.
-- Annotate your understanding of Horn clauses and unification.
+## Notas
+- Compare os métodos de encadeamento e descreva quando cada um é apropriado.
+- Anote sua compreensão das cláusulas Horn e da unificação.

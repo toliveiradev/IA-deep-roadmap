@@ -1,20 +1,20 @@
-# Neural Network Foundations
+# Fundamentos de redes neurais
 
-## Objectives
-- Understand perceptrons, activation functions, and backpropagation.
-- Learn about the universal approximation theorem.
-- Implement neural networks from scratch.
+## Objetivos
+- Entenda os perceptrons, as funções de ativação e a retropropagação.
+- Aprender sobre o teorema da aproximação universal.
+- Implementar redes neurais do zero.
 
-## Readings
-- *Deep Learning* – Ian Goodfellow et al., Chapters 6 and 7.
-- *Neural Networks and Deep Learning* – Michael Nielsen (free online).
-- "The Perceptron: A Probabilistic Model" – Rosenblatt (1958).
+## Leituras
+- *Aprendizagem profunda* - Ian Goodfellow et al., Capítulos 6 e 7.
+- Redes neurais e aprendizagem profunda* - Michael Nielsen (on-line gratuito).
+- "The Perceptron: Um modelo probabilístico" - Rosenblatt (1958).
 
 ## Practice
-- Build a perceptron and train it on a simple classification task.
-- Implement backpropagation using NumPy.
-- Visualize activation functions (sigmoid, tanh, ReLU).
+- Crie um perceptron e treine-o em uma tarefa de classificação simples.
+- Implemente o backpropagation usando o NumPy.
+- Visualize as funções de ativação (sigmoide, tanh, ReLU).
 
-## Notes
-- Reflect on the strengths and limitations of single-layer perceptrons.
-- Write about how gradient descent affects learning.
+## Notas
+- Reflita sobre os pontos fortes e as limitações dos perceptrons de camada única.
+- Escreva sobre como a descida de gradiente afeta o aprendizado.
